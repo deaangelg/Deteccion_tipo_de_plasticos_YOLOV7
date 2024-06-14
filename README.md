@@ -1,0 +1,1 @@
+# Deteccion_tipo_de_plasticos_YOLOV7
